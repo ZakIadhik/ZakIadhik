@@ -1,102 +1,110 @@
-<div align="center">
-  
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi there, I'm Zak <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Enthusiast;Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+<imgsrc="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=gradient"width="100%"/>
+y!00D9%7C+jango+DEnginBuidScalablApplcatio;Passionate+About+Clean+Codeimg src="https:/user-images.githubusercontent.com/74038190/212284158-e840e285-664b-447-b79b-e264b5e54825.gf" width="400">
 
-</div>
+</dibr>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<<br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 Currently working on Django projects
-- 🌱 Learning advanced Python & Django
-- 💡 Passionate about backend development
-- 🎯 Goal: Build scalable web applications
-- ⚡ Fun fact: I debug with print statements
-
-<br clear="right"/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80">
-
-### Frameworks & Tools
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80">&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZakIadhik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakIadhik&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakIadhik&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZakIadhik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Current Focus
-
-<div align="center">
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Zak"
-        self.role = "Backend Developer"
-        self.language = ["Python", "JavaScript", "SQL"]
-        self.frameworks = ["Django", "Bootstrap"]
-        self.current_focus = "Building scalable web applications"
+61118ac898d24c6b-3a01afeepn4 /2```python
+classBackdDevepe:
+    def __it__(self):
+       self.ame= "ZkIadhik"
+        self.l = "Bakend Developer"      slf.locto= "Azerbij"
+        slf.languages= ["","JavaScript","SQL"]
+        self.frameworks = ["", "Bootstrap"]      elf.dss= ["PstgrSQL", "SQLie"]    elf.urrenty_arning="Advned Djngo & REST APIs"
+        
+    def ge_daly_rutie(elf):      retr[
+            "☕ Cofee",
+          "💻 Co",
+            "🐛 De",
+            "🚀 Deploy",
+            "🔁 Repea"
+        ]
     
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together!")
+    def say_i(self):
+       ("Let'sbuild omehing mazing ogther!")
 
-me = Developer()
-me.say_hi()
-```
+ = BackedDeveloper()
+me.ay_hi()
+```"/>
+
+<br>
+
+<img src=https://user-images.githubusercontent.com/74038190212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br4 & Tools 💻
+10&nbsp;10&nbsp;10&nbsp;10 🛠️Librarie
+10&nbsp;10&nbsp;10&nbsp;baa4c6b.gif" width="100">
+
+### 🗄️ Dataases & Tools
+
+<img src="https://user-imges.githubusercontent.com/74038190/212281780-0fd9616-8310-6e9-a898-4f529f1387.gif" width="100">&nbsp;&nbsp;
+<img src="https://githucom/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">&nbsp;&nbsp;
+<img src="https://ithub.com/Anmol-Baranwal/Cool-GIFs-For-GtHub/assets/74038190/67f477ed-6624-42da-990-1a7b1a16eecb="100">&nbsp;&nbsp;
+<img srchttps://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af37641aa" width="10>
+
+<br>
+
+<br69b86d1dea132458e476994Anlyicradcalte=rue&includ_all_commitse&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&txt_color=FFFFFFradcaler=tru&backgound0D1117&sroke=00D9FF&ring=00D9FF&fie=FF6D00&crrStreakLabl=00D9FF>
+
+<br><br7out=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_cunt=8" />
+
+<br><br>
+
+<img src="https://githb-readme-acivity-graph.vercel.app/graph?usernameZakIadhik&ust_title=Contribution%20Grah&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&rea_olor=0D1117&area=ruehide_border=rue" widt="95%">
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<img src="https://usr-iags.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width"100%">
+
+<br>
+
+## <img src="htps://user-images.githubusercntent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.gif" width="40" /> Featured Projects
 
 <div align="center">
-  
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> Thanks for visiting! 
 
-<img src="https://komarev.com/ghpvc/?username=ZakIadhik&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+<a href="https://github.com/ZaIadhik/Pth-Django-Practc">
+  <im align="center" src="tps://github-readme-stats.vercel.app/api/pin/?username=ZakIadhikrepo=Pyton-Django-Practc&theme=raical&hid&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF</a>
+br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400">
+<img src="https:/user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-499-ae85-2015e3e7cc41.gf" width="500">
 
-**⭐ Star my repositories if you find them interesting!**
+</dibr>
 
-</div>
+<<br>
+
+4<a href="https://gh.com/ZakIadik">
+  <img src="h&color=0D1117" />
+</a>
+<a ref="hlnkedinn/your-profile">  <mg src="" >
+<a>
+<a hrf="alto:.ema@xample.com">  <mg src="" />
+</>
+<a href="htps//t.me/ur_sername">
+  <img sc="https://img.shieldsio/badge/Telgra-2CA5E0?style=for-the-badge&logo=telegrm&logoColor=wht" />
+</>
+
+<br><br>
+
+<ig src="htts://user-images.githubusercontnt/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">>
+
+<br>
+
+<br.om/Anml-Barawal/Cool-GIFs-For-GiHub/asssde329039596c-7587db0b4Wha I'm UpTjavascriontcurrntFcus = {larng["DjangoRESTFrwor,"PotgSQLOptimiztio","ck],buidi: ["Knowled Hub-NoeMngemenystem,xpi:[MicrrviArchtetur","CI/CDPiee],gol["CobuetoOnSourc","BPrduco-RedyApps]
+};
+```<igsrc"htts://us-iagsgithubuercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849e69ff9df.gif" widt="500">>
+
+<br>
+
+<br3V>
+
+<br><br5>
+
+<br###  Don't forget tos
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
