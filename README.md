@@ -2,7 +2,7 @@
 
 <div align="center">
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"><br>
-<img alt="Hola" align="center" height="50%" width="100%" src="https://see.fontimg.com/api/renderfont4/2O6xe/eyJyIjoiZnMiLCJoIjoyMywidyI6MTAwMCwiZnMiOjIzLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gSSdtIFNhbnNrYXIgU2FodSB8fCBEU21hcmsg/organical-personal-use-bold-italic.png"><br>
+<img alt="Hola" align="center" height="50%" width="100%" src="https://res.cloudinary.com/dgi0osvx8/image/upload/v1782910388/vmeztbbuyguujznde1bw.jpg"><br>
 <img height="80px" align="center" width="80" alt="Hola" src="https://res.cloudinary.com/dgi0osvx8/image/upload/v1782910388/vmeztbbuyguujznde1bw.jpg">
 </div>
  <p align="center">
