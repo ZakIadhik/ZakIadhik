@@ -1,1 +1,155 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zak%20Iadhik&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+%7C+Django+Developer;Backend+Engineer;Building+Scalable+Web+Apps;Passionate+About+Clean+Code;Always+Learning+New+Things" alt="Typing SVG" /> <br> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> <br> <img src="https://komarev.com/ghpvc/?username=ZakIadhik&color=blueviolet&style=for-the-badge&label=Profile+Views" /> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br> ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> About Me <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> ```python class Developer: def __init__(self): self.name = "Zak Iadhik" self.role = "Backend Developer" self.location = "Azerbaijan 🇦🇿" self.languages = ["Python", "JavaScript", "SQL"] self.frameworks = ["Django", "Bootstrap", "REST"] self.databases = ["PostgreSQL", "SQLite"] self.tools = ["Git", "Docker", "VS Code"] def say_hi(self): print("Thanks for dropping by!") print("Let's build something amazing together!") me = Developer() me.say_hi() ``` <br clear="right"/> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br> ## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"> Tech Stack <div align="center"> ### Languages & Frameworks <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"> ### Tools & Databases <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">&nbsp;&nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">&nbsp;&nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">&nbsp;&nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">&nbsp;&nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">&nbsp;&nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100"> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br> ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" /> GitHub Stats <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZakIadhik&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakIadhik&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" /> <br><br> <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakIadhik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" /> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakIadhik&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="95%"> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br> ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.gif" width="40" /> Featured Projects <div align="center"> <a href="https://github.com/ZakIadhik/Python-Django-Practic"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZakIadhik&repo=Python-Django-Practic&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" /> </a> <br><br> <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500"> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br> ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"> Connect With Me <div align="center"> <a href="https://github.com/ZakIadhik"> <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" /> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" /> </a> <a href="mailto:your.email@example.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.gif" width="100" /> </a> <a href="https://t.me/your_username"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" /> </a> <br><br> [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117)](https://github.com/ZakIadhik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username) </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br> ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="40"> Current Focus <div align="center"> ```javascript const currentlyWorkingOn = { learning: ["Django REST Framework", "PostgreSQL", "Docker"], building: ["Knowledge Hub - Note Management System"], exploring: ["Microservices", "CI/CD", "Cloud Deployment"], goals: ["Contribute to Open Source", "Build Production Apps"] }; ``` <br> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500"> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br> ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> Fun Facts <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400"> <br><br> ``` ☕ Coffee → 💻 Code → 🐛 Debug → 🚀 Deploy → 🔁 Repeat ``` <br> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> </div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <br> <div align="center"> ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> Thanks for Visiting! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="400"> <br> ### ⭐ Star my repositories if you find them interesting! <br> <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> <br><br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div>
+  <h1 id="-bravo"><div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"> !Bravo, <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></div></h1>
+
+<div align="center">
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"><br>
+<img alt="Hola" align="center" height="50%" width="100%" src="https://see.fontimg.com/api/renderfont4/2O6xe/eyJyIjoiZnMiLCJoIjoyMywidyI6MTAwMCwiZnMiOjIzLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gSSdtIFNhbnNrYXIgU2FodSB8fCBEU21hcmsg/organical-personal-use-bold-italic.png"><br>
+<img height="80px" align="center" width="80" alt="Hola" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png">
+</div>
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20 I%27m%20%5BSanskar%20Sahu%20%7C%7C%20DSmark%5D;A+Programmer;Web+Developer+%26%26%20+Web+Designer;Gamer%20%26%26%20Developer;DS%20|%20Algorithms%20|%20OOP%20;&amp;center=true&amp;width=500&amp;height=50">
+</p>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
+<div align="center">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
+  <br>
+ <div align="center">
+<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<br><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<br>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<br><code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<br><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<br>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><br>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
+<br>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+</b></div><b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
+<p></p>
+<h3 id="computer--programs--tools">Computer :&gt; Programs &amp;&amp; Tools</h3>
+<img alt="dsmark" align="right" height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">flowchart</span><span style="color:#B392F0"> TB</span></span>
+<span class="line"><span style="color:#FFAB70"> A</span><span style="color:#F97583">&gt;</span><span style="color:#9ECBFF">"Computer"</span><span style="color:#F97583">]</span><span style="color:#E1E4E8">  </span></span>
+<span class="line"><span style="color:#FFAB70"> B</span><span style="color:#F97583">[(</span><span style="color:#9ECBFF">"Programs"</span><span style="color:#F97583">)]</span><span style="color:#E1E4E8"> </span></span>
+<span class="line"><span style="color:#FFAB70"> C</span><span style="color:#F97583">[(</span><span style="color:#9ECBFF">"Tools"</span><span style="color:#F97583">)]</span></span>
+<span class="line"><span style="color:#FFAB70"> A </span><span style="color:#F97583">--&gt;</span><span style="color:#FFAB70"> B</span></span>
+<span class="line"><span style="color:#FFAB70"> A </span><span style="color:#F97583">--&gt;</span><span style="color:#FFAB70"> C</span></span></code></pre>
+<ul>
+<li>
+<p><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png" width="16"> <strong>Vscode</strong> not for web it for everything</p>
+</li>
+<li>
+<p><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width="16"> Chromium base web browser like <strong>Firefox</strong></p>
+</li>
+<li>
+<p><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width="16"> <a href="https://getpaint.net"><strong>Gimp</strong></a> for image manipulation</p>
+</li>
+<li>
+<p><img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width="16"> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, <strong>PopsOs</strong> by (System76)</p>
+</li>
+<li>
+<p>🌱 I’m currently learning more about <strong>Reactjs(Nextjs)</strong>.</p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate on <a href="https://github.com/DSDarkMark/project_short" title="DSmark Project">github</a>.</p>
+</li>
+<li>
+<p>🤔 I’m looking for help with Nextjs documentation.</p>
+</li>
+<li>
+<p>💬 Ask me about web Development or any tech-related stuff.</p>
+</li>
+<li>
+<p>😄 Pronouns: He/His</p>
+</li>
+<li>
+<p>⚡ Fun fact: I spend almost time to watch <strong>anime</strong>.</p>
+</li>
+</ul>
+<h2 id="technologies">Technologies</h2>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#E1E4E8">flowchart </span></span>
+<span class="line"><span style="color:#E1E4E8">f1[HTML]</span></span>
+<span class="line"><span style="color:#E1E4E8">f2[Css]</span></span>
+<span class="line"><span style="color:#E1E4E8">f3[javaScpit]</span></span>
+<span class="line"><span style="color:#E1E4E8">f4[Markdown]</span></span>
+<span class="line"><span style="color:#E1E4E8">fw1((ReactJs))</span></span>
+<span class="line"><span style="color:#E1E4E8">fw2((NextJs))</span></span>
+<span class="line"><span style="color:#E1E4E8">fw3((Bootstrap))</span></span>
+<span class="line"><span style="color:#E1E4E8">fw4((tailwind))</span></span>
+<span class="line"><span style="color:#E1E4E8">fw5((Scss))</span></span>
+<span class="line"><span style="color:#E1E4E8">fw6((mermaid))</span></span>
+<span class="line"><span style="color:#E1E4E8">b1{NodeJs}</span></span>
+<span class="line"><span style="color:#E1E4E8">b2{RestAPIs}</span></span>
+<span class="line"><span style="color:#E1E4E8">b3{PHP}</span></span>
+<span class="line"><span style="color:#E1E4E8"> subgraph  BackEnd</span></span>
+<span class="line"><span style="color:#E1E4E8">b1</span></span>
+<span class="line"><span style="color:#E1E4E8">b2</span></span>
+<span class="line"><span style="color:#E1E4E8">b3</span></span>
+<span class="line"><span style="color:#E1E4E8"> end  </span></span>
+<span class="line"><span style="color:#E1E4E8"> subgraph Framworks </span></span>
+<span class="line"><span style="color:#E1E4E8">fw1</span></span>
+<span class="line"><span style="color:#E1E4E8">fw2</span></span>
+<span class="line"><span style="color:#E1E4E8">fw3</span></span>
+<span class="line"><span style="color:#E1E4E8">fw4</span></span>
+<span class="line"><span style="color:#E1E4E8">fw5</span></span>
+<span class="line"><span style="color:#E1E4E8">fw6</span></span>
+<span class="line"><span style="color:#E1E4E8"> end</span></span>
+<span class="line"><span style="color:#E1E4E8">  subgraph  FrontEnd </span></span>
+<span class="line"><span style="color:#E1E4E8"> f1</span></span>
+<span class="line"><span style="color:#E1E4E8"> f2</span></span>
+<span class="line"><span style="color:#E1E4E8"> f3</span></span>
+<span class="line"><span style="color:#E1E4E8"> f4</span></span>
+<span class="line"><span style="color:#E1E4E8"> end  </span></span>
+<span class="line"><span style="color:#E1E4E8"> f1 --o f2</span></span>
+<span class="line"><span style="color:#E1E4E8"> f1 --o f3</span></span>
+<span class="line"><span style="color:#E1E4E8"> f1 --o f4</span></span>
+<span class="line"><span style="color:#E1E4E8"> f2 --&gt; fw3</span></span>
+<span class="line"><span style="color:#E1E4E8"> f2 --&gt; fw4</span></span>
+<span class="line"><span style="color:#E1E4E8"> f2 --&gt; fw5</span></span>
+<span class="line"><span style="color:#E1E4E8"> f3 --o fw1</span></span>
+<span class="line"><span style="color:#E1E4E8"> f3 --o fw2</span></span>
+<span class="line"><span style="color:#E1E4E8"> fw2 --o b1</span></span>
+<span class="line"><span style="color:#E1E4E8"> f4 --&gt; fw6</span></span>
+<span class="line"><span style="color:#E1E4E8"> b1 --o b2</span></span></code></pre>
+<h2 id="touch-me--ˊˋ">Touch Me  ˊ•⌔•ˋ</h2>
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left"><a href="https://discord.gg/xm4DN6JTVt">Discord</a></th><th align="left"><a href="https://github.com/DSDmark/">Github</a></th><th align="left"><a href="">LinkIn</a></th><th align="left"><a href="https://dev.to/dsmark">DevToCommunity</a></th><th align="left"><a href="sahup3296@gmail.com">Gmail</a></th></tr></thead></table>
+<hr>
+<blockquote>
+<p><strong>Youth is a lie. It is nothing but evil.</strong></p>
+</blockquote>
+<p>Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them.
+ʕ •́؈•̀ ₎
+In the face of the word ” <strong>Youth</strong>  ”, they will twist any common interpretation or accepted notion out of recognition.</p>
+<p>In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.</p>
+<p>If failure is truly the proof of one’s youth…</p>
+<p>Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.</p>
+<p>My conclusion is this All you fools who delight in youth…</p>
+<blockquote>
+<p><strong>Be Drop Dead.</strong></p>
+</blockquote>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+<hr>
+<p>Credit:<a href="https://github.com/DSDmark">Sanskarsahu</a>
+Last Edited on: 1/4/2022</p></b> 
