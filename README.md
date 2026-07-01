@@ -2,7 +2,7 @@
 
 <div align="center">
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"><br>
-<img alt="Hola" align="center" height="50%" width="100%" src="https://res.cloudinary.com/dgi0osvx8/image/upload/v1782910388/vmeztbbuyguujznde1bw.jpg"><br>
+<img alt="Hola" align="center" height="50%" width="100%" src="https://res.cloudinary.com/dgi0osvx8/image/upload/v1782910693/tzmv7c8tdxv3p7vo1rqn.png"><br>
 <img height="80px" align="center" width="80" alt="Hola" src="https://res.cloudinary.com/dgi0osvx8/image/upload/v1782910388/vmeztbbuyguujznde1bw.jpg">
 </div>
  <p align="center">
