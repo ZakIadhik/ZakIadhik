@@ -76,6 +76,4 @@
 <p>⚡ Fun fact: I spend almost time to watch <strong>anime</strong>.</p>
 </li>
 </ul>
-<h2 id="technologies">Technologies</h2>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#E1E4E8">flowchart </span></span>
  
