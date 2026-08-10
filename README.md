@@ -78,34 +78,4 @@
 </ul>
 <h2 id="technologies">Technologies</h2>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#E1E4E8">flowchart </span></span>
-<h2 id="touch-me--ˊˋ">Touch Me  ˊ•⌔•ˋ</h2>
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th align="left"><a href="https://discord.gg/xm4DN6JTVt">Discord</a></th><th align="left"><a href="https://github.com/DSDmark/">Github</a></th><th align="left"><a href="">LinkIn</a></th><th align="left"><a href="https://dev.to/dsmark">DevToCommunity</a></th><th align="left"><a href="sahup3296@gmail.com">Gmail</a></th></tr></thead></table>
-<hr>
-<blockquote>
-<p><strong>Youth is a lie. It is nothing but evil.</strong></p>
-</blockquote>
-<p>Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them.
-ʕ •́؈•̀ ₎
-In the face of the word ” <strong>Youth</strong>  ”, they will twist any common interpretation or accepted notion out of recognition.</p>
-<p>In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.</p>
-<p>If failure is truly the proof of one’s youth…</p>
-<p>Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.</p>
-<p>My conclusion is this All you fools who delight in youth…</p>
-<blockquote>
-<p><strong>Be Drop Dead.</strong></p>
-</blockquote>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-<hr>
  
